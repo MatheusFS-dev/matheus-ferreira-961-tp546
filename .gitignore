@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+
+credentials.json
+recipients.json
+runs/
+
+command.md
